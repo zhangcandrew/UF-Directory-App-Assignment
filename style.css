@@ -6,3 +6,28 @@
   max-height: 400px;
   overflow: auto;
 }
+
+.addListing {
+	margin-top: 30px;
+}
+
+.in {
+	margin-top: 10px;
+}
+
+.incoo {
+	margin-top: 10px;
+	width:	50%;
+	float: left;
+	margin-bottom: 10px;
+}
+
+.submit {
+	margin-top: 10px;
+	float: right;
+}
+
+.jumbotron {
+	padding-top: 10px;
+	height: 200px;
+}
